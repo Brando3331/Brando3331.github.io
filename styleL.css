@@ -91,10 +91,15 @@ html {
 
   @media (max-width: 768px) {
     .navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
     flex-direction: column;
     height: auto;
     gap: 10px;
     padding: 10px 0;
+    z-index: 1000;
   }
 
 
