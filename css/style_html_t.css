@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(15, 15, 71);
+}
+.compiler {
+    width: 730px;
+    height: 300px;
+    background-color: rgba(29, 27, 27, 0.703);
+    position: absolute;
+    top: 70px;
+    left: 20px;
+}
+
+
+
+.compilerCSS {
+    width: 730px;
+    height: 300px;
+    background-color:  rgba(29, 27, 27, 0.703);
+    position: absolute;
+    top: 70px;
+    right: 30px;
+}
+
+
+.nolink {
+    color: inherit;
+    text-decoration: none;
+    width: 400px;
+}
